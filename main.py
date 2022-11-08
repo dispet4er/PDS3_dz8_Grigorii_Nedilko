@@ -5,3 +5,4 @@ def main_function():
     
 def test_function():
     print("Commit1 test main")
+    print("Commit2 test main")
